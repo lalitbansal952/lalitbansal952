@@ -1,0 +1,24 @@
+body h1 {
+    color: black;
+    background-color: wheat;
+    text-align: center;
+    padding: 100px;
+    font-style: italic;
+    text-shadow: 2px 2px  2px black;
+    font-size: 250%%;
+}
+
+body h2 {
+    text-align: center;
+    padding: 20px;
+    
+    color: orange;
+    background-color: black;
+    text-shadow: 1px 1px orange;
+}
+ body h3 {
+     text-align: center;
+     color: white;
+     background-color: black;
+     padding: 12px;
+ }
